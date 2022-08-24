@@ -22,10 +22,7 @@ https://mylittletrip-4416.web.app
 
 ### 3. 역할 분담
 
-> - 김동우 : 유저 기능 / 여행일정 추천 기능 + Front 구성
 > - 김진수 : 여행장소 기능 + server 배포
-> - 박진우 : 댓글, 좋아요 기능 + server 배포
-> - 최민기 : 리뷰 기능 + server 배포
 
 <br />
 
